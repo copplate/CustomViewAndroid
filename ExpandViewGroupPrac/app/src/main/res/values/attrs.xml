@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LHC_SelectedImageView">
+        <attr name="defaultImag" format="reference" />
+        <attr name="cendefault_img" format="reference" />
+        <attr name="selectedImg" format="reference" />
+        <attr name="animal_duration" format="integer" />
+    </declare-styleable>
+
+
+
+
+
+</resources>
