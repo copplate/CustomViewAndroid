@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--photoview  kotlin/java  版本-->
+    <declare-styleable name="PhotoView">
+        <attr name="android:src" format="reference|color" />
+    </declare-styleable>
+
+</resources>
