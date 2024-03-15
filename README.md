@@ -9,3 +9,4 @@
 
 
 🐴PhotoViewTest是学习史大拿点击放大图片。[android 图解 PhotoView,从‘百草园’到‘三味书屋’!_android kotlin版photoview-CSDN博客](https://blog.csdn.net/weixin_44819566/article/details/120781647?spm=1001.2014.3001.5506)
+HeaderFooterPrac是学习方大可自定义头布局和尾布局。

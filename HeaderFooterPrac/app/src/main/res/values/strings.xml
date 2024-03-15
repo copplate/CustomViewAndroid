@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">HeaderFooterPrac</string>
+    <string name="test_string">在Android 中，滑动分为2类，一类以ScrollView为代表布局，通过子View实现布局超出视区（ViewPort)之后，进行Scroll操作的，另一类事以修改Offset为代表的Recycler类，前者实时保持最大高度。形像的理解为前者是“齿轮传动派”，后者是“滑板派”，两派都有过出分头的时候，即便是个派弟子如NestedScrollView和RecyclerView争的你死我活，不过总体上齿轮传动派占在弱势地位。不过android的改版，让他们做了很多和平相处的事情，不如NestedScrolling机制的支持，让他们想传动就传动，想滑翔就滑翔。
+齿轮传动派看家本领
+
+scrollX,ScrollY,scrollTo、setX、setY、setTranslationXXX方法
+一个长得很长的独生子
+通过RenderNode对View绘制偏移，
+滑动偏移公式 translationX = x - left,translationY = y -top
+
+滑板派的看家本领
+
+
+offsetXXX、setLeft\setRight\setTop\setBottom等方法
+
+
+RecyclerView中被魔改的ScrollXXX方法
+
+
+一群会滑板的孩子
+
+
+layout 方法也是他们的帮手
+
+
+前者为了实现的简单的滑动，后者空间可以无限大，期间还可自由换孩子。
+在Android 中，滑动分为2类，一类以ScrollView为代表布局，通过子View实现布局超出视区（ViewPort)之后，进行Scroll操作的，另一类事以修改Offset为代表的Recycler类，前者实时保持最大高度。形像的理解为前者是“齿轮传动派”，后者是“滑板派”，两派都有过出分头的时候，即便是个派弟子如NestedScrollView和RecyclerView争的你死我活，不过总体上齿轮传动派占在弱势地位。不过android的改版，让他们做了很多和平相处的事情，不如NestedScrolling机制的支持，让他们想传动就传动，想滑翔就滑翔。
+齿轮传动派看家本领
+
+scrollX,ScrollY,scrollTo、setX、setY、setTranslationXXX方法
+一个长得很长的独生子
+通过RenderNode对View绘制偏移，
+滑动偏移公式 translationX = x - left,translationY = y -top
+
+滑板派的看家本领
+
+
+offsetXXX、setLeft\setRight\setTop\setBottom等方法
+
+
+RecyclerView中被魔改的ScrollXXX方法
+
+
+一群会滑板的孩子
+
+
+layout 方法也是他们的帮手
+
+
+前者为了实现的简单的滑动，后者空间可以无限大，期间还可自由换孩子。
+在Android 中，滑动分为2类，一类以ScrollView为代表布局，通过子View实现布局超出视区（ViewPort)之后，进行Scroll操作的，另一类事以修改Offset为代表的Recycler类，前者实时保持最大高度。形像的理解为前者是“齿轮传动派”，后者是“滑板派”，两派都有过出分头的时候，即便是个派弟子如NestedScrollView和RecyclerView争的你死我活，不过总体上齿轮传动派占在弱势地位。不过android的改版，让他们做了很多和平相处的事情，不如NestedScrolling机制的支持，让他们想传动就传动，想滑翔就滑翔。
+齿轮传动派看家本领
+
+scrollX,ScrollY,scrollTo、setX、setY、setTranslationXXX方法
+一个长得很长的独生子
+通过RenderNode对View绘制偏移，
+滑动偏移公式 translationX = x - left,translationY = y -top
+
+滑板派的看家本领
+
+
+offsetXXX、setLeft\setRight\setTop\setBottom等方法
+
+
+RecyclerView中被魔改的ScrollXXX方法
+
+
+一群会滑板的孩子
+
+
+layout 方法也是他们的帮手
+
+
+前者为了实现的简单的滑动，后者空间可以无限大，期间还可自由换孩子。
+在Android 中，滑动分为2类，一类以ScrollView为代表布局，通过子View实现布局超出视区（ViewPort)之后，进行Scroll操作的，另一类事以修改Offset为代表的Recycler类，前者实时保持最大高度。形像的理解为前者是“齿轮传动派”，后者是“滑板派”，两派都有过出分头的时候，即便是个派弟子如NestedScrollView和RecyclerView争的你死我活，不过总体上齿轮传动派占在弱势地位。不过android的改版，让他们做了很多和平相处的事情，不如NestedScrolling机制的支持，让他们想传动就传动，想滑翔就滑翔。
+齿轮传动派看家本领
+
+scrollX,ScrollY,scrollTo、setX、setY、setTranslationXXX方法
+一个长得很长的独生子
+通过RenderNode对View绘制偏移，
+滑动偏移公式 translationX = x - left,translationY = y -top
+
+滑板派的看家本领
+
+
+offsetXXX、setLeft\setRight\setTop\setBottom等方法
+
+
+RecyclerView中被魔改的ScrollXXX方法
+
+
+一群会滑板的孩子
+
+
+layout 方法也是他们的帮手
+
+
+前者为了实现的简单的滑动，后者空间可以无限大，期间还可自由换孩子。
+在Android 中，滑动分为2类，一类以ScrollView为代表布局，通过子View实现布局超出视区（ViewPort)之后，进行Scroll操作的，另一类事以修改Offset为代表的Recycler类，前者实时保持最大高度。形像的理解为前者是“齿轮传动派”，后者是“滑板派”，两派都有过出分头的时候，即便是个派弟子如NestedScrollView和RecyclerView争的你死我活，不过总体上齿轮传动派占在弱势地位。不过android的改版，让他们做了很多和平相处的事情，不如NestedScrolling机制的支持，让他们想传动就传动，想滑翔就滑翔。
+齿轮传动派看家本领
+
+scrollX,ScrollY,scrollTo、setX、setY、setTranslationXXX方法
+一个长得很长的独生子
+通过RenderNode对View绘制偏移，
+滑动偏移公式 translationX = x - left,translationY = y -top
+
+滑板派的看家本领
+
+
+offsetXXX、setLeft\setRight\setTop\setBottom等方法
+
+
+RecyclerView中被魔改的ScrollXXX方法
+
+
+一群会滑板的孩子
+
+
+layout 方法也是他们的帮手
+
+
+前者为了实现的简单的滑动，后者空间可以无限大，期间还可自由换孩子。
+在Android 中，滑动分为2类，一类以ScrollView为代表布局，通过子View实现布局超出视区（ViewPort)之后，进行Scroll操作的，另一类事以修改Offset为代表的Recycler类，前者实时保持最大高度。形像的理解为前者是“齿轮传动派”，后者是“滑板派”，两派都有过出分头的时候，即便是个派弟子如NestedScrollView和RecyclerView争的你死我活，不过总体上齿轮传动派占在弱势地位。不过android的改版，让他们做了很多和平相处的事情，不如NestedScrolling机制的支持，让他们想传动就传动，想滑翔就滑翔。
+齿轮传动派看家本领
+
+scrollX,ScrollY,scrollTo、setX、setY、setTranslationXXX方法
+一个长得很长的独生子
+通过RenderNode对View绘制偏移，
+滑动偏移公式 translationX = x - left,translationY = y -top
+
+滑板派的看家本领
+
+
+offsetXXX、setLeft\setRight\setTop\setBottom等方法
+
+
+RecyclerView中被魔改的ScrollXXX方法
+
+
+一群会滑板的孩子
+
+
+layout 方法也是他们的帮手
+
+
+前者为了实现的简单的滑动，后者空间可以无限大，期间还可自由换孩子。
+在Android 中，滑动分为2类，一类以ScrollView为代表布局，通过子View实现布局超出视区（ViewPort)之后，进行Scroll操作的，另一类事以修改Offset为代表的Recycler类，前者实时保持最大高度。形像的理解为前者是“齿轮传动派”，后者是“滑板派”，两派都有过出分头的时候，即便是个派弟子如NestedScrollView和RecyclerView争的你死我活，不过总体上齿轮传动派占在弱势地位。不过android的改版，让他们做了很多和平相处的事情，不如NestedScrolling机制的支持，让他们想传动就传动，想滑翔就滑翔。
+齿轮传动派看家本领
+
+scrollX,ScrollY,scrollTo、setX、setY、setTranslationXXX方法
+一个长得很长的独生子
+通过RenderNode对View绘制偏移，
+滑动偏移公式 translationX = x - left,translationY = y -top
+
+滑板派的看家本领
+
+
+offsetXXX、setLeft\setRight\setTop\setBottom等方法
+
+
+RecyclerView中被魔改的ScrollXXX方法
+
+
+一群会滑板的孩子
+
+
+layout 方法也是他们的帮手
+
+
+前者为了实现的简单的滑动，后者空间可以无限大，期间还可自由换孩子。
+</string>
+</resources>
